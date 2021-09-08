@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println("master test conflict");
         System.out.println("hot-fix test conflict1");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
